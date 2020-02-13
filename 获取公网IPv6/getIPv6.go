@@ -1,4 +1,4 @@
-package 获取公网IPv6
+package main
 
 import (
 	"flag"

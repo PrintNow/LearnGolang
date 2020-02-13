@@ -1,4 +1,4 @@
-package 文件去重
+package main
 
 import (
 	"bufio"
